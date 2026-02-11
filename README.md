@@ -3,11 +3,6 @@
 # 📅 Smart Schedule Planner  
 ### *A Modern Tkinter & MySQL Scheduling System*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Tkinter-6366f1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI-Modern%20Design-818cf8?style=for-the-badge"/>
-</p>
 
 <p align="center">
   <b>A clean, modern, and user-friendly schedule planner built with Python.</b><br>
@@ -46,6 +41,27 @@
 - Update schedules  
 - Delete tasks safely  
 - Quick status changes  
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/screenshots/dashboard.png" width="80%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/screenshots/create.png" width="45%"/>
+  <img src="assets/screenshots/manage.png" width="45%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/screenshots/reports.png" width="80%"/>
+</div>
 
 ---
 
